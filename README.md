@@ -3,7 +3,7 @@
 ## Project Structure
 ```
 shopper_spectrum/
-├── shopper_spectrum.ipynb   ← Full analysis notebook (executed)
+├── shopper_spectrum.ipynb   ← Full analysis notebook 
 ├── app.py                   ← Streamlit web application
 ├── ecommerce_data.xlsx      ← Dataset
 └── models/
