@@ -3,9 +3,9 @@
 ## Project Structure
 ```
 shopper_spectrum/
-├── shopper_spectrum.ipynb   ← Full analysis notebook 
+├── shopper_spectrum_online_retail.ipynb   ← Full analysis notebook 
 ├── app.py                   ← Streamlit web application
-├── ecommerce_data.xlsx      ← Dataset
+├── online_retail.xlsx      ← Dataset
 └── models/
     ├── kmeans_model.pkl     ← Trained KMeans (k=4)
     ├── scaler.pkl           ← StandardScaler for RFM
